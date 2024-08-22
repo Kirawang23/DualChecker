@@ -1,0 +1,9 @@
+argparse
+numpy
+scikit-learn
+torch
+transformers
+tqdm
+openai
+python-dotenv
+sentence-transformers
