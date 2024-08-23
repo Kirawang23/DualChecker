@@ -1,6 +1,6 @@
 # DualChecker
 
-This repository contains the codebase for the paper titled **"Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models."**
+This repository contains the codebase for the paper titled **"[Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models](https://arxiv.org/abs/2408.12326)."**
 
 ## Table of Contents
 - [Overview](#overview)
