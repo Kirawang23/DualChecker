@@ -11,6 +11,7 @@ This repository contains the codebase for the paper titled **"Interactive DualCh
     - [2. Prepare the Data](#2-prepare-the-data)
     - [3. Run the Framework](#3-run-the-framework)
     - [4. Fine-tuning the Student Model](#4-fine-tuning-the-student-model)
+- [Citation](#citation)
 
 ## Overview
 
