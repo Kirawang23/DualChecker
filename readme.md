@@ -72,6 +72,7 @@ Since we use the original patents in Japanese, we plan to provide a translated v
 You can execute the entire pipeline using the `main.sh` script:
 
 ```bash
+git clone https://github.com/Kirawang23/DualChecker.git
 bash main.sh
 ```
 
@@ -84,3 +85,19 @@ To fine-tune the student model, use the following command:
 ```bash
 python script/student_finetune.py
 ```
+## Citation
+
+Please cite our paper if you use this code or our work in your research.
+
+To cite this work in BibTeX format, you can use the following reference:
+
+```bibtex
+@misc{wang2024interactivedualcheckermitigatinghallucinations,
+      title={Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models}, 
+      author={Meiyun Wang and Masahiro Suzuki and Hiroki Sakaji and Kiyoshi Izumi},
+      year={2024},
+      eprint={2408.12326},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2408.12326}, 
+}
