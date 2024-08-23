@@ -58,6 +58,7 @@ Ensure you have the following dependencies installed:
 ### 1. Clone the Repository
 
 ```bash
+git clone https://github.com/Kirawang23/DualChecker.git
 cd DualChecker
 ```
 
@@ -72,7 +73,6 @@ Since we use the original patents in Japanese, we plan to provide a translated v
 You can execute the entire pipeline using the `main.sh` script:
 
 ```bash
-git clone https://github.com/Kirawang23/DualChecker.git
 bash main.sh
 ```
 
